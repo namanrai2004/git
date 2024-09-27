@@ -1,3 +1,4 @@
 this is text file
 add new text
 add another text
+add this text
